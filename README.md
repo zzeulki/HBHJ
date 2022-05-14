@@ -1,5 +1,6 @@
 # HBHJ
-Hit the buk, Hit the Jang-gu
+_"Hit the buk, Hit the Jang-gu"_
+
 This is origin from Bookchigi-Bakchigi. So, it seems like a worldview of '북(BOOK)'.
 
 
