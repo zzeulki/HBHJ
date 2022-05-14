@@ -5,4 +5,4 @@ This is origin from Bookchigi-Bakchigi. So, it seems like a worldview of '북(BO
 
 ### We are going to NEXT LEVEL!
 
-please, expect our next level and another 북.
+please, expect our next level and another 북 world.
