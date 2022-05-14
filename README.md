@@ -11,11 +11,15 @@ please, expect our next level and another 북 world.
 This is our first project, it will be useful to attendance for miracle morning.
 
 
-## How to Setup 
+---------------------------------------------------
+
+### *How to Setup* 
+```c
 git clone git@github.com:zzeulki/HBHJ.git (this is for ssh, you can also use http : https://github.com/zzeulki/HBHJ.git)
 cd HBHJ
 git submodule init
 git submodule update
+```
 
 
 
