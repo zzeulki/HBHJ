@@ -1,0 +1,3 @@
+[submodule "MiracleMorning"]
+	path = MiracleMorning
+	url = git@github.com:zzeulki/MiracleMorning.git
